@@ -1,0 +1,1 @@
+An application for working with a database using Hibernate. The issue with the environment variables that prevented the tests from running through the Maven lifecycle was resolved by inserting the environment variables into Maven through the settings in IntelliJ.
